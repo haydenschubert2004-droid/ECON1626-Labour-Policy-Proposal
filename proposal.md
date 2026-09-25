@@ -1,10 +1,10 @@
 # Helping Australia's Clerical Workforce Adapt to Generative AI
 
 - **Client and policy context:** Advice to the Department of Employment and Workplace Relations (DEWR) on implementing Action 5, "Support and train Australians", of the National AI Plan.
-- **Status:** First Australian bullet-point outline, prepared 25 September 2026; not the final 1,200-word proposal.
+- **Status:** Evidence-checked working bullet-point outline, revised 25 September 2026; not the final 1,200-word proposal.
 - **Central question:** What additional support would best help clerical and administrative workers adapt to generative AI while improving productivity and limiting unequal adjustment costs?
-- **Working scope:** Employed clerical and administrative workers, with small businesses as a candidate priority group. Confirm the case for firm-size targeting before making it an eligibility rule.
-- **Working position:** Test targeted support for paid learning time and practical job redesign against worker-directed training assistance and career-transition support. No final package or budget is established.
+- **Working scope:** General clerks with documented AI-related task change and an unmet learning need. Do not restrict eligibility to small businesses without stronger evidence.
+- **Working position:** Test targeted support for paid learning time and practical job redesign against worker-directed training assistance and career-transition support. Option 2 is a provisional trial recommendation; its benefit over existing provision remains to be tested. See [research notes](research-notes.md) for evidence limits and costing assumptions.
 
 ## Executive summary — final target 130 words
 
@@ -17,8 +17,8 @@
 
 - Anchor the advice in Action 5 of the National AI Plan, which addresses workforce skills and adaptation [1].
 - Establish the existing baseline: government announced one million fully subsidised introductory AI course places in December 2025 [2]. This is an offer of places, not evidence of one million completions.
-- Map relevant existing training, employer-support and employment-service provision before proposing additional spending.
-- Test whether the remaining constraints concern learning time, suitable applied training, workplace implementation or movement into new roles.
+- Existing provision includes free TAFE NSW applied AI content, SEE workplace foundation-skills support and Future Skills Organisation employer resources. Fund a demonstrated gap rather than duplicate these services; source details are in the [evidence register](research-notes.md#evidence-register).
+- ABS finds time/workload is the main barrier for 44% of people reporting work-related training barriers, not 44% of all workers. This supports testing time constraints but does not establish their prevalence among general clerks.
 - Examine possible economic rationales: workers' financial constraints, employers' limited incentive to fund transferable skills, information gaps and coordination costs. Treat these as hypotheses requiring evidence in the selected group.
 - Do not describe a completed consultation as open or claim that no support currently exists.
 
@@ -30,7 +30,7 @@
 - **Wages:** Examine changes in demand for routine and complementary skills, workers' outside options and bargaining power. Higher productivity need not produce equal wage gains.
 - **Industry structure:** Assess whether AI lowers entry costs or instead advantages firms with stronger data, scale and implementation capacity. Distinguish these possibilities from demonstrated concentration.
 - **Distribution:** Use occupational and demographic data to assess differences by gender, age, employment type and region. Choose the most relevant contrasts rather than list every group.
-- **Evidence to add:** Consistently dated ABS/JSA employment and earnings measures; eligible-worker population; adoption and training-access evidence by business size.
+- **Occupational context:** JSA's ANZSCO general-clerk profile reports 292,100 employed (February 2026), 81% women and 40% part-time (2025 averages). Keep reference periods explicit; these figures describe the occupation, not eligible demand. Address the transition to OSCA classifications before implementation.
 - Use task-based economic research to support mechanisms, without treating overseas findings as Australian effect estimates [5].
 
 ## Three policy options and evaluation — final target 240 words
@@ -40,20 +40,20 @@
 - **Option 2 — Employer co-funded paid learning and job redesign:** Reimburse part of verified paid learning time and applied workplace support. Target employers with a credible plan for changing clerical tasks; examine practical uptake against employer capture, administration and subsidising activity that would happen anyway.
 - **Option 3 — Career-transition assistance:** Provide targeted counselling, recognition of existing skills, job matching and bridging training for workers facing documented role change or displacement. Examine mobility benefits against uncertain vacancies and the cost of intervening after disruption.
 - Apply the same criteria to each: additional productivity/employment benefits; distribution of benefits and access; delivery feasibility; and incremental public expenditure.
-- Compare common time horizons and report both total cost and cost per supported worker. Do not treat unlike participant groups as directly equivalent.
+- Compare costs over 24 months using participants × additional service costs plus administration and evaluation. Benchmark options 1 and 3 before assigning dollar totals; unlike participant needs prevent a simple cost-per-head ranking.
 - Use a concise options-by-criteria matrix in the final draft; justify judgements and avoid unsupported numerical scores.
 
 ## Recommended package, costing and implementation — final target 280 words
 
 - **Provisional candidate:** A limited test of option 2 using existing suitable training, conditional on evidence that paid time and workplace application are important unmet barriers.
 - Select another option, combine justified components or retain existing arrangements if additional benefits do not support the candidate.
-- **Eligibility:** Define the occupational scope and documented need; establish a business-size threshold only if evidence supports it. Address part-time and casual workers' access.
+- **Eligibility:** General clerks with documented task change and unmet transferable-skill needs; allow part-time and casual access. Exclude routine induction/compliance and services already funded. Employers must already pay employees for job-related training: the proposal subsidises additional investment, not a new wage entitlement.
 - **Proposed roles:** DEWR sponsors and commissions delivery; JSA informs targeting and evaluation; training providers deliver learning; employers provide paid time and implement agreed task changes. Verify mandates and available delivery channels.
-- **Illustrative schedule:** Months 1–3 for design and baseline assessment; months 4–9 for delivery; months 10–15 for six-month follow-up and an expansion decision. These are planning assumptions.
+- **Illustrative schedule:** Months 1–3 for needs assessment, pricing and evaluation design; 4–6 for recruitment/baselines; 7–12 for delivery; 13–24 for follow-up and a published decision. Confirm authority, data access and feasible evaluation sample before launch.
 - **Cost method:** Participants × supported learning hours × reimbursed hourly cost, plus any additional course fees, workplace advice, administration and evaluation. Separate public subsidy, employer contribution and workers' time.
-- Set programme scale and unit costs from evidence; show low, central and high scenarios. No dollar amount in this outline should be represented as an established budget.
+- **Provisional ceiling:** Up to 1,000 workers; 20 paid hours; 50% wage reimbursement with the eligible hourly wage capped at $40 ($400,000). Add needs-based learning up to $500,000, distinct workplace support $200,000, administration $150,000, evaluation $200,000 and 10% contingency: $1.595 million. These are design allowances, not verified market prices; the [costing notes](research-notes.md#provisional-option-2-budget-a-ceiling-not-a-quotation) explain assumptions and sensitivity. Free content attracts no tuition subsidy.
 - **KPIs:** Completion and demonstrated skill use; employment and earnings at follow-up; job quality/workload; employer adoption; participation across priority groups; cost per additional successful outcome.
-- Use a comparison group or phased access where feasible; distinguish additional effects from changes that would have occurred without support.
+- Prefer randomised phased offers at employer level, subject to feasibility and a power calculation. Compare additional participation and assessed skill application against existing provision; monitor employment, earnings and job quality without promising detectable short-run effects.
 - Pre-specify criteria for expansion, redesign or closure. Do not count the same productivity benefit twice as both wage gains and business gains.
 
 ## Risks and mitigations — final target 100 words
@@ -77,7 +77,7 @@
 ## Checks before the full draft
 
 - Confirm whether references and table text count toward the limit; section targets above total 1,200 words.
-- Resolve the evidence for small-business targeting and the actual unmet barrier before finalising eligibility or the recommendation.
-- Verify current programme overlap, costs and delivery responsibilities.
+- Validate unmet need among the selected occupation. Current evidence does not justify small-business-only eligibility or a claim that paid learning is already proven superior.
+- Complete provider-cost benchmarking, full-report methodology checks and delivery-role verification; the research notes distinguish completed checks from outstanding ones.
 - Develop README.md and a separate 200-word reflection.md; record genuine AI-use decisions, including substantive research and argument development.
 - Continue with meaningful development commits and verify Markdown, links and final word counts.
