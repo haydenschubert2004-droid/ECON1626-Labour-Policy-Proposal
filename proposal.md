@@ -4,7 +4,7 @@
 
 ## Executive summary
 
-DEWR should trial employer co-funded paid learning and workplace application for 1,000 general clerks, with public expenditure capped at $1.595 million over two years. AI can automate routine tasks while complementing judgement; exposure does not imply redundancy. Existing free courses reduce tuition barriers, but access to time and effective workplace application may remain uneven. Compared with vouchers, a workplace trial tests whether paid release and supervised application improve transferable skills before displacement. Eligibility should require documented task change, unmet learning needs and worker consultation. Funding should cover verified additional activity, with employers sharing costs. Independent evaluation against existing provision should determine whether to expand, redesign or stop. The budget is a proposed ceiling, not a verified procurement estimate.
+DEWR should trial employer co-funded paid learning and workplace application for 1,000 general clerks, with public expenditure capped at $1.595 million over two years. AI can automate routine tasks while complementing judgement; exposure does not imply redundancy. Existing free courses reduce tuition barriers, but access to time and effective workplace application may remain uneven. Compared with vouchers, a workplace trial tests whether paid release and supervised application improve transferable skills before displacement. Eligibility should require clearly documented task change, unmet learning needs and worker consultation. Funding should cover verified additional activity, with employers sharing costs. Independent evaluation against existing provision should determine whether to expand, redesign or stop. The budget is a proposed ceiling, not a verified procurement estimate.
 
 ## Problem and policy context
 
@@ -20,7 +20,7 @@ AI changes task demand before necessarily eliminating occupations. Drafting corr
 
 The displacement effect reduces labour required per unit of output. Conversely, lower costs can expand demand, and new complementary tasks can increase labour demand (Acemoglu and Restrepo, 2019). Net employment depends partly on how strongly demand responds to lower prices. Entry-level opportunities could narrow if routine tasks disappear, even while existing workers become more productive.
 
-DEWR's (2026, pp. 44–57) occupational analysis finds a modest negative exposure–employment relationship after ChatGPT's introduction. However, results are sensitive to exposure measures and modelling choices, and firm-level adoption is unobserved. Slower growth cannot be equated with proven AI-caused redundancies.
+DEWR's (2026, pp. 44–57) occupational analysis finds a modest negative exposure–employment relationship after ChatGPT's introduction. However, results are sensitive to exposure measures and modelling choices, and firm-level adoption is unobserved. Slower growth does not prove AI-caused redundancies.
 
 Wage outcomes may also diverge. Workers with complementary skills could gain bargaining power, while substitutable skills face weaker demand. Productivity gains need not translate into higher pay when employers retain the surplus. Training should therefore develop portable capabilities, supporting workers' outside options as well as workplace performance.
 
@@ -38,7 +38,7 @@ Compare three two-year pilots against existing provision using efficiency, equit
 | 2. Co-funded workplace learning: paid release plus assessed learning and task-redesign support | Links learning to application; risks subsidising existing plans | Includes part-time/casual clerks; employer participation limits reach | Payroll verification and consultation increase complexity | $1.595m |
 | 3. Transition assistance: up to $1,500 each for counselling, matching and bridging skills following documented role loss/change; excludes full qualifications | Supports reallocation; depends on vacancies | Reaches displaced workers without supportive employers | Requires service coordination and tailored assessment | $2.035m |
 
-Ceilings equal participant allowances plus $350,000 administration/evaluation, then 10% contingency. The common overhead is a planning assumption, not a validated delivery cost. Option 3 serves different needs; cost per participant cannot establish comparative effectiveness.
+Ceilings equal participant allowances plus $350,000 administration/evaluation, then 10% contingency. Common overheads are assumptions, not validated costs. Option 3 serves different needs; cost per participant cannot establish comparative effectiveness.
 
 Option 2 costs $660,000 more than vouchers. This premium is justified only where paid release and workplace application overcome barriers that vouchers leave unresolved. If fees alone prevent participation, option 1 is preferable. If roles are disappearing with few internal redeployment opportunities, option 3 better supports mobility. Recommend option 2 as a bounded test for workers facing task change, not as the universally superior response.
 
